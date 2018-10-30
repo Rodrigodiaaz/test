@@ -70,6 +70,7 @@ namespace Tesis.controlador
             }
             return palabraMayuscula;
         }
+
         //metodo para buscar usuario desde controlador
         public Usuario buscarUsuario(string id)
         {

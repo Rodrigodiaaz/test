@@ -21,6 +21,7 @@ namespace Tesis.vistas
             }
             else
             {
+
                 Usuario u = (Usuario)Session["usuario"];
                 lblNombre.Text = u.Nombre;
 
